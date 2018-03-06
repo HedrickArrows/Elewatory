@@ -1,6 +1,8 @@
 # Elewatory
 Zadanie na przedmiot "Algorytmy i Struktury Danych"
 
+do zadania został wykorzystany kopiec fibonacciego
+
 Oryginalna treść zadania
 
 Elewatory
