@@ -16,20 +16,13 @@ W kolejnej linii znajduje się n liczb reprezentujące początkową masę zboża
 W następnych m liniach znajdują się operacje:
 
     napełnienie elewatora n nr_elewatora masa 
-    
-    napełnienie elewatora zawierającego najmniej zboża nm masa 
-    
-    napełnienie elewatora zawierającego najwięcej zboża nM masa 
-    
-    rozładunek elewatora r nr_elewatora masa 
-    
-    rozładunek elewatora zawierającego najmniej zboża rm masa 
-    
+    napełnienie elewatora zawierającego najmniej zboża nm masa     
+    napełnienie elewatora zawierającego najwięcej zboża nM masa     
+    rozładunek elewatora r nr_elewatora masa     
+    rozładunek elewatora zawierającego najmniej zboża rm masa     
     rozładunek elewatora zawierającego najwięcej zboża rM masa 
-    wypisanie masy zboża w elewatorze w nr_elewatora 
-    
+    wypisanie masy zboża w elewatorze w nr_elewatora     
     wypisanie masy zboża w elewatorze zawierającym najmniej zboża wm
-    
     wypisanie masy zboża w elewatorze zawierającym najwięcej zboża wM
     
 
